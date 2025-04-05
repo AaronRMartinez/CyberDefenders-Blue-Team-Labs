@@ -4,7 +4,7 @@ https://cyberdefenders.org/blueteam-ctf-challenges/achievements/mars0750/amadey/
 
 ## Tactics
 
--Execution
+- Execution
 - Persistence
 - Privilege Escalation
 - Defense Evasion
